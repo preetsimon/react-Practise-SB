@@ -5,7 +5,11 @@ export default function App() {
   return (
     <div>
       <h1>Forever is a long time</h1>
-      <p>I am here for a good time not a long time</p>
+{/* Product name, desc, price  */}
+{/* Product name, desc, price  */}
+{/* Product name, desc, price  */}
+{/* Product name, desc, price  */}
+
     </div>
   );
 }
